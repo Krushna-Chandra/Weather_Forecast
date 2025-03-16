@@ -26,45 +26,6 @@ A simple and user-friendly weather forecasting application that provides real-ti
 
 ---
 
-## **📌 Installation & Setup**  
-
-### **🔹 Clone the Repository**  
-```bash
-git clone https://github.com/Krushna-Chandra/Weather_Forecast.git
-cd Weather_Forecast
-```
-
-### **🔹 Install Dependencies** *(If using a backend)*  
-```bash
-npm install
-```
-
-### **🔹 Get API Key**  
-1. Sign up at [OpenWeatherMap](https://openweathermap.org/) (or your preferred weather API).  
-2. Get your **API Key**.  
-3. Add the API key in your `.env` file *(if applicable)*:  
-   ```
-   WEATHER_API_KEY=your_api_key_here
-   ```
-
-### **🔹 Run the Project**  
-- If using **HTML, CSS, JavaScript (Frontend Only)**:  
-  Just open `index.html` in a browser.  
-- If using **Node.js Backend**:  
-  ```bash
-  npm start
-  ```
-
----
-
-## **🌎 Deployment**  
-You can deploy this project using:  
-- **GitHub Pages (Frontend only)**
-- **Vercel / Netlify (Frontend)**
-- **Render / Heroku (Backend)**  
-
----
-
 ## **📷 Screenshots** *(Optional)*  
 Include screenshots of your app for better visualization.  
 Example:  
