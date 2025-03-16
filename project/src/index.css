@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cloud-1,
+.cloud-2,
+.cloud-3 {
+  position: absolute;
+  background-image: url('https://images.unsplash.com/photo-1534088568595-a066f410bcda?auto=format&fit=crop&w=2000&q=80');
+  background-size: cover;
+  opacity: 0.6;
+  width: 300%;
+  height: 100%;
+  animation: cloudMove linear infinite;
+}
+
+.cloud-1 {
+  animation-duration: 60s;
+}
+
+.cloud-2 {
+  animation-duration: 90s;
+  animation-delay: -30s;
+  opacity: 0.4;
+}
+
+.cloud-3 {
+  animation-duration: 120s;
+  animation-delay: -60s;
+  opacity: 0.2;
+}
+
+@keyframes cloudMove {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
