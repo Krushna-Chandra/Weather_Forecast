@@ -124,7 +124,7 @@ export default function RadarPage() {
     if (isPlaying) {
       const animate = () => {
         setTimeOffset(prev => {
-          const next = (prev + 0.05) % 6; // Even smoother animation
+          const next = (prev + 0.02) % 6; // Even smoother animation
           return Number(next.toFixed(2));
         });
         animationFrame = requestAnimationFrame(animate);
