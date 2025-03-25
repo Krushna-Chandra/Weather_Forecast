@@ -29,7 +29,7 @@ A simple and user-friendly weather forecasting application that provides real-ti
 ## **📷 Screenshots** *(Optional)*  
 Include screenshots of your app for better visualization.  
 Example:  
-![Weather App Screenshot](https://your-image-url.com)  
+[![Weather App Screenshot](https://your-image-url.com)](https://weather-forecast-three-sigma.vercel.app/)  
 
 ---
 
@@ -48,7 +48,7 @@ Contributions are welcome! Feel free to:
 ## **📬 Contact**  
 🔹 **Author:** Krushna Chandra Bindhani  
 🔹 **GitHub:** [@Krushna-Chandra](https://github.com/Krushna-Chandra)  
-🔹 **Email:** your-email@example.com *(Optional)*  
+🔹 **Email:** krushnachandrabindhani952@gmail.com
 
 ---
 
