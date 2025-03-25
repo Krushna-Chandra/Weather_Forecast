@@ -5,7 +5,7 @@ Here’s a well-structured **README.md** file for your **Weather_Forecast** proj
 ### **🌤 Weather Forecast**  
 A simple and user-friendly weather forecasting application that provides real-time weather updates for any location.  
 
-"C:\Users\gitan\OneDrive\Desktop\Weather_Forecast\20250325_220931.mp4" 
+![Image](https://github.com/user-attachments/assets/7b4e3e74-82dd-46c6-b6d9-3f220d0a0b36) 
 
 ---
 
