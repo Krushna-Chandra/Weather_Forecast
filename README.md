@@ -30,7 +30,9 @@ A simple and user-friendly weather forecasting application that provides real-ti
 ## **📷 Screenshots** *(Optional)*  
 Include screenshots of your app for better visualization.  
 Example:  
-[![Weather App Screenshot](https://your-image-url.com)](https://weather-forecast-three-sigma.vercel.app/)  
+![image](https://github.com/user-attachments/assets/c6b35041-f15b-40da-a682-f6a43a77cdad) ![image](https://github.com/user-attachments/assets/867e0877-02a0-4450-bfe2-84640fe32471) ![image](https://github.com/user-attachments/assets/901f2bd7-7f2a-47be-bac9-ddcf5859b14b)
+
+(https://weather-forecast-three-sigma.vercel.app/)  
 
 ---
 
