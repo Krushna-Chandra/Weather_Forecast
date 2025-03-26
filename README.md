@@ -5,7 +5,8 @@ Here’s a well-structured **README.md** file for your **Weather_Forecast** proj
 ### **🌤 Weather Forecast**  
 A simple and user-friendly weather forecasting application that provides real-time weather updates for any location.  
 
-![Image](https://github.com/user-attachments/assets/7b4e3e74-82dd-46c6-b6d9-3f220d0a0b36) 
+![image](https://github.com/user-attachments/assets/6faa2c8d-0f69-4e6b-b456-d3c909992c07)
+
 
 ---
 
