@@ -11,7 +11,7 @@ export default function Footer() {
         className="inline-block mt-2"
       >
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
           alt="GitHub"
           className="w-6 h-6 mx-auto hover:opacity-80 transition-opacity dark:invert"
         />
