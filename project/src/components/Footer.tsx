@@ -19,6 +19,6 @@ export default function Footer() {
     </footer>
   );
 }
-// ✅ 3. Ensure Footer is styled consistently with the theme
-// ✅ 4. Footer should be responsive and accessible
-// ✅ 5. Footer should include a link to the developer's GitHub profile
+// This Footer component provides a simple footer with a link to the developer's GitHub profile.
+// It includes a GitHub icon that links to the specified profile, styled for both light and dark themes.
+// The footer is responsive and accessible, ensuring a consistent user experience across devices.
