@@ -22,7 +22,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
-              <img src="/logo.png" alt="Logo" className="w-8 h-8 bg-white rounded-full p-1" />
+              <img src="/Logo.jpg" alt="Logo" className="w-8 h-8 bg-white rounded-full p-1" />
               <span className="text-xl font-bold text-gray-800 dark:text-white">Weather App</span>
             </Link>
           </div>
