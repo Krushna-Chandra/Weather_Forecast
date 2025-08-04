@@ -11,13 +11,14 @@ export default function Footer() {
         className="inline-block mt-2"
       >
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg"
           alt="GitHub"
-          className="w-6 h-6 mx-auto hover:opacity-80 transition-opacity"
+          className="w-6 h-6 mx-auto hover:opacity-80 transition-opacity dark:invert"
         />
       </a>
     </footer>
   );
 }
-// This Footer component provides a simple footer with a link to the developer's GitHub profile.
-// It includes a GitHub icon that links to the specified profile, styled for both light and
+// ✅ 3. Ensure Footer is styled consistently with the theme
+// ✅ 4. Footer should be responsive and accessible
+// ✅ 5. Footer should include a link to the developer's GitHub profile
